@@ -11,7 +11,7 @@ I was tired to open old projects and check the structure so I've decided to crea
 - eslint 1.5
 - babel 5.8
 - babel-eslint 4.1
-- eslint-config-airbng 0.1
+- eslint-config-airbnb 0.1
 
 
 ### Commands
