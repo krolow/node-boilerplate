@@ -6,12 +6,11 @@ I was tired to open old projects and check the structure so I've decided to crea
 
 ## What it contains?
 
-- mocha 2.3
-- chai 3.4
-- eslint 1.5
-- babel 5.8
-- babel-eslint 4.1
-- eslint-config-airbnb 0.1
+- mocha
+- chai
+- eslint
+- babel
+- eslint-config-airbnb
 
 
 ### Commands
